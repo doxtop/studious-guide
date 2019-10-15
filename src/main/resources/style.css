@@ -1,0 +1,24 @@
+html {font-family: Lato, sans-serif; font-weight:300;}
+
+.center{ text-align: center;}
+.footer{ text-align: center; color:#90918c}
+.section{ border-bottom: 1px solid lightgray;}
+.content{ margin-right:auto;margin-left:auto; max-width:1024px;padding: 1em 2em;}
+
+.table{border-collapse:collapse;border-spacing:0;empty-cells:show;border:1px solid #90918c}
+.table td,.table th{padding:.7em 1em}
+.table th { color: white; background-color: #4ea701; font-weight:400; }
+.striped tr:nth-child(2n-1) td{background-color: lightgray;}
+
+.title{ width:474px; display: block;}
+.date-filter{ padding: 1em 0;}
+.date-filter input {font-size:1.2em;}
+.filter { padding: 1em 0;}
+.note { color: #36578c;}
+
+.btn:focus,a:active,a:hover{outline:0}
+.btn{padding:.5em 1em;color: white; border:1px solid #999;border:transparent;background-color:#90918c;text-decoration:none;border-radius:2px; margin-right:1em;}
+.btn:hover{background-color: gray; }
+.active { color: white; background-color: #4ea701;}
+.active:hover{background-color: green;}
+.clear {margin: 0 1em; text-decoration: none;font-weight: 500;}
